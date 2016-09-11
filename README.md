@@ -1,6 +1,6 @@
 # LinuxWebServers
 
-<h2>General Information Information</h2>
+<h2>General Information</h2>
 <ul>
   <li>FQDN: ec2-52-41-123-95.us-west-2.compute.amazonaws.com
   <li>Public IP address: 52.41.123.95
