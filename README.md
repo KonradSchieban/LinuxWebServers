@@ -36,7 +36,6 @@
   <li>SQLAlchemy
   <li>Flask
   <li>oauth2client
-  <li>google-api-python-client (not needed)
   <li>psycopg2
 </ol>
 
